@@ -21,15 +21,16 @@ Every day at 11:45 AM and 4:45 PM, a Power Automate flow refreshes an Excel base
    - MTA Open Data source in order to get latitude/longitude (now locations have Lat/ Long)
    - Joins handled in Power Query for repeatability
 
-   ![Data Merge Screenshot](screenshots/data_merge.png)
+The first page provides a summary of each domain, including the associated RITMs (requested item number) and their corresponding locations. Each item is interactive—clicking on it navigates directly to the relevant detailed page.
+   ![Data Merge Screenshot]([screenshots/data_merge.png](https://github.com/Avimaslow/Windows11Dashboard/blob/main/screenshots/SummaryPage.png))
 
 3. **Power BI Dashboard**
    - **Map**: Sites with device counts (bubble size), tooltips with ticket status & device type  
    - **Filters**: Location, device type, ticket status  
    - **Completion Bins**: 0%, 25–49%, 50–74%, etc.  
 
-   ![Dashboard Map Screenshot](screenshots/dashboard.png)
-
+   ![Dashboard Map Screenshot]([https://github.com/Avimaslow/Windows11Dashboard/blob/main/screenshots/Win11Dashboard%20Main%20Page.png](https://github.com/Avimaslow/Windows11Dashboard/blob/main/screenshots/PercentageCompleteEachLocation.png))
+   ![Dashboard Map Percentage for Each Location](https://github.com/Avimaslow/Windows11Dashboard/blob/main/screenshots/Win11Dashboard%20Main%20Page.png)
 ## Future Expansion
 - Add mobile assets (Workspace ONE)
 - Integrate ServiceNow + WMS
@@ -37,6 +38,5 @@ Every day at 11:45 AM and 4:45 PM, a Power Automate flow refreshes an Excel base
 
 ---
 
-## 3. Repo Structure
-Your repo might look like:
+
 
