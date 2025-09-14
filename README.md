@@ -32,7 +32,7 @@ The first page provides a summary of each domain, including the associated RITMs
    ![Dashboard Map Screenshot]([https://github.com/Avimaslow/Windows11Dashboard/blob/main/screenshots/Win11Dashboard%20Main%20Page.png](https://github.com/Avimaslow/Windows11Dashboard/blob/main/screenshots/PercentageCompleteEachLocation.png))
 
 
-   ![Dashboard Map Percentage for Each Location](https://github.com/Avimaslow/Windows11Dashboard/blob/main/screenshots/Win11Dashboard%20Main%20Page.png)
+   ![Dashboard Map Percentage for Each Location](https://github.com/Avimaslow/Windows11Dashboard/blob/main/screenshots/PercentageCompleteEachLocation.png)
 ## Future Expansion
 - Add mobile assets (Workspace ONE)
 - Integrate ServiceNow + WMS
