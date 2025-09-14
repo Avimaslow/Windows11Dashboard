@@ -13,7 +13,7 @@ Every day at 11:45 AM and 4:45 PM, a Power Automate flow refreshes an Excel base
    - Uploads the new file as `Managers Dashboard.xlsx`  
    - Triggers Power BI dataset refresh  
 
-   ![Flow Screenshot](screenshots/flow.png)
+   ![Flow Screenshot](https://github.com/Avimaslow/Windows11Dashboard/blob/main/screenshots/PowerAutomateWin11.png)
 
 2. **Data Sources**
    - SCCM weekly export (serial, device name, IP)
