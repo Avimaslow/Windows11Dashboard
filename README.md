@@ -1,7 +1,7 @@
 # Windows 11 Upgrade Dashboard – Automation + Power BI
 
 ## Overview
-This project automates the Windows 11 upgrade reporting process for the MTA.
+This project automates the Windows 11 upgrade reporting process.
 Every day at 11:45 AM and 4:45 PM, a Power Automate flow refreshes an Excel baseline and triggers Power BI to update.
 
 ## How It Works
@@ -16,9 +16,9 @@ Every day at 11:45 AM and 4:45 PM, a Power Automate flow refreshes an Excel base
    ![Flow Screenshot](https://github.com/Avimaslow/Windows11Dashboard/blob/main/screenshots/PowerAutomateWin11.png)
 
 2. **Data Sources**
-   - SCCM weekly export (serial, device name, IP)
-   - Networking IP-to-location mapping
-   - MTA Open Data with latitude/longitude
+   - SCCM weekly export (serial number for asset, device name, IP)
+   - Networking IP-to-location mapping (Gives IP addresses the location names)
+   - MTA Open Data source in order to get latitude/longitude (now locations have Lat/ Long)
    - Joins handled in Power Query for repeatability
 
    ![Data Merge Screenshot](screenshots/data_merge.png)
