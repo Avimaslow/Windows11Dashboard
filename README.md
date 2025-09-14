@@ -29,7 +29,7 @@ The first page provides a summary of each domain, including the associated RITMs
    - **Filters**: Location, device type, ticket status  
    - **Completion Bins**: 0%, 25–49%, 50–74%, etc.  
 
-   ![Dashboard Map Screenshot]([https://github.com/Avimaslow/Windows11Dashboard/blob/main/screenshots/Win11Dashboard%20Main%20Page.png](https://github.com/Avimaslow/Windows11Dashboard/blob/main/screenshots/PercentageCompleteEachLocation.png))
+   ![Dashboard Map Screenshot](https://github.com/Avimaslow/Windows11Dashboard/blob/main/screenshots/Win11Dashboard%20Main%20Page.png)
 
 
    ![Dashboard Map Percentage for Each Location](https://github.com/Avimaslow/Windows11Dashboard/blob/main/screenshots/PercentageCompleteEachLocation.png)
