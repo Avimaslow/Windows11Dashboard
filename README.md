@@ -22,7 +22,7 @@ Every day at 11:45 AM and 4:45 PM, a Power Automate flow refreshes an Excel base
    - Joins handled in Power Query for repeatability
 
 The first page provides a summary of each domain, including the associated RITMs (requested item number) and their corresponding locations. Each item is interactive—clicking on it navigates directly to the relevant detailed page.
-   ![Data Merge Screenshot]([screenshots/data_merge.png](https://github.com/Avimaslow/Windows11Dashboard/blob/main/screenshots/SummaryPage.png))
+   ![Data Merge Screenshot](https://github.com/Avimaslow/Windows11Dashboard/blob/main/screenshots/SummaryPage.png)
 
 3. **Power BI Dashboard**
    - **Map**: Sites with device counts (bubble size), tooltips with ticket status & device type  
