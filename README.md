@@ -34,26 +34,32 @@ The first page provides a summary of each domain, including the associated RITMs
 
    ![Dashboard Map Percentage for Each Location](https://github.com/Avimaslow/Windows11Dashboard/blob/main/screenshots/PercentageCompleteEachLocation.png)
 
-## Stakeholder Dashboard Overview
-This page provides a high-level view of Windows 11 upgrade progress across the organization. It is designed to give stakeholders an immediate understanding of overall performance, completion rates, and key areas of focus.
-Top Metrics
-Number of Assets – Total devices in scope for upgrade.
-Closed RITMs – Number of upgrade requests successfully completed.
-% Complete – Overall progress percentage based on total assets.
-Weekly Closed – Devices upgraded within the current week.
-Breakdowns & Drill-Downs
-Top Ten Locations – Highlights sites with the most remaining open RITMs, allowing leaders to see where attention is needed.
-Closed by Quarter/Month/Week – Breaks down upgrade completions by timeframe and device type (desktops, laptops, monitors).
-Closed RITMs by Technician – Shows which teams or individuals are closing the most tickets.
-Domain Summary – Aggregates upgrades by business domain (e.g., Transit, Metro-North, LIRR), linking technical progress to organizational impact.
-Status Overview – Displays closed versus in-progress work, providing transparency into pipeline health.
-Exclusions – Identifies assets outside upgrade scope (e.g., specialized systems), ensuring expectations are managed.
-Interactive Map
-Each bubble represents a location, with size corresponding to number of assets.
-Stakeholders can visually identify hotspots, track completion percentages, and explore specific regions.
-Filters & Search
-Slice data by location, device type, or completion percentage.
-Search by RITM or serial number to investigate specific devices.
+## Stakeholder Dashboard
+
+This page provides a high-level view of Windows 11 upgrade progress across the organization.  
+It is designed to give stakeholders an immediate understanding of overall performance, completion rates, and key areas of focus.
+
+### Top Metrics
+- **Number of Assets** – Total devices in scope for upgrade  
+- **Closed RITMs** – Number of upgrade requests successfully completed  
+- **% Complete** – Overall progress percentage based on total assets  
+- **Weekly Closed** – Devices upgraded within the current week  
+
+### Breakdowns & Drill-Downs
+- **Top Ten Locations** – Highlights sites with the most remaining open RITMs, showing where attention is needed  
+- **Closed by Quarter/Month/Week** – Breakdowns by timeframe and device type (desktop, laptop, monitor)  
+- **Closed RITMs by Technician** – Identifies which teams or individuals are closing the most tickets  
+- **Domain Summary** – Aggregates upgrades by business domain (e.g., Transit, Metro-North, LIRR)  
+- **Status Overview** – Shows closed versus in-progress work, providing transparency into pipeline health  
+- **Exclusions** – Lists assets outside upgrade scope (e.g., specialized systems)  
+
+### Interactive Map
+- Each bubble represents a location, with size corresponding to the number of assets  
+- Stakeholders can identify hotspots, track completion percentages, and explore regions interactively  
+
+### Filters & Search
+- Filter by location, device type, or completion percentage  
+- Search by RITM or serial number to drill into specific devices  
 
  ![Stakeholder Page](https://github.com/Avimaslow/Windows11Dashboard/blob/main/screenshots/StakeholdersPage1.png)
 
