@@ -55,7 +55,7 @@ Filters & Search
 Slice data by location, device type, or completion percentage.
 Search by RITM or serial number to investigate specific devices.
 
- ![Stakeholder Page](https://github.com/Avimaslow/Windows11Dashboard/blob/main/screenshots/StakeholdersPage.png)
+ ![Stakeholder Page](https://github.com/Avimaslow/Windows11Dashboard/blob/main/screenshots/StakeholdersPage1.png)
 
 
 
